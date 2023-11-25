@@ -7,5 +7,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
     <h1>Hello World</h1>
     <p>TUKYA</p>
+    <pfuture></p>
   </React.StrictMode>
 )
